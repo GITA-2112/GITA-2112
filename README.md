@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anggita - Github @GITA-2112
 - 👀 I’m interested in Telecommunication Industry & Big Data
-- 🌱 I’m currently learning Data Science & AI
+- 🌱 I’m currently learning Data Science & Generative AI
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me https://www.linkedin.com/in/anggitaputri-gita/
 
